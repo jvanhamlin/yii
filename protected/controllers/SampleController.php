@@ -1,6 +1,6 @@
 <?php
 
-class ProductsController extends Controller {
+class SampleController extends Controller {
 
     /**
      * Lists all models in a paginated list
